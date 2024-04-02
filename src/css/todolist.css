@@ -1,0 +1,8 @@
+.taskCompleted {
+    text-decoration: line-through;
+  }
+
+.right{
+  position: absolute;
+  right: 100px;
+}
